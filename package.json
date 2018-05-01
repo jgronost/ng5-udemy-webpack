@@ -19,6 +19,9 @@
     "@angular/platform-browser-dynamic": "^5.2.10",
     "@angular/platform-server": "^5.2.10",
     "@angular/router": "^5.2.10",
-    "@angular/upgrade": "^5.2.10"
+    "@angular/upgrade": "^5.2.10",
+    "core-js": "^2.5.5",
+    "rxjs": "^6.0.0",
+    "zone.js": "^0.8.26"
   }
 }
